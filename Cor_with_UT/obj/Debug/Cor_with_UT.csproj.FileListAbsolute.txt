@@ -1,0 +1,11 @@
+F:\Lab\labs\Cor_with_UT\Cor_with_UT\bin\Debug\Cor_with_UT.exe.config
+F:\Lab\labs\Cor_with_UT\Cor_with_UT\bin\Debug\Cor_with_UT.exe
+F:\Lab\labs\Cor_with_UT\Cor_with_UT\bin\Debug\Cor_with_UT.pdb
+F:\Lab\labs\Cor_with_UT\Cor_with_UT\obj\Debug\Cor_with_UT.csproj.AssemblyReference.cache
+F:\Lab\labs\Cor_with_UT\Cor_with_UT\obj\Debug\Cor_with_UT.csproj.SuggestedBindingRedirects.cache
+F:\Lab\labs\Cor_with_UT\Cor_with_UT\obj\Debug\Cor_with_UT.Form1.resources
+F:\Lab\labs\Cor_with_UT\Cor_with_UT\obj\Debug\Cor_with_UT.Properties.Resources.resources
+F:\Lab\labs\Cor_with_UT\Cor_with_UT\obj\Debug\Cor_with_UT.csproj.GenerateResource.cache
+F:\Lab\labs\Cor_with_UT\Cor_with_UT\obj\Debug\Cor_with_UT.csproj.CoreCompileInputs.cache
+F:\Lab\labs\Cor_with_UT\Cor_with_UT\obj\Debug\Cor_with_UT.exe
+F:\Lab\labs\Cor_with_UT\Cor_with_UT\obj\Debug\Cor_with_UT.pdb
