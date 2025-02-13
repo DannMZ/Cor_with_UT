@@ -55,7 +55,6 @@ namespace UnitTestProject1
             Filter.setNext(AtoM);
             AtoM.setNext(NtoZ);
             Assert.AreEqual(Filter2.request("ABC?"), Filter.request("ABC?"), "Проблеми із \"?\"");
-
         }
         [TestMethod]
         public void Try_questions2()

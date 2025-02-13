@@ -36,6 +36,7 @@ namespace Cor_with_UT
 
         private void button1_Click(object sender, EventArgs e)
         {
+            if(textBox1.Text!="")
             MessageBox.Show(Filter1.request(textBox1.Text));
         }
     }

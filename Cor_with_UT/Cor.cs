@@ -25,7 +25,7 @@ namespace Cor_with_UT
             if (Char.IsLetter(what[0]))
             {
                 if (what[what.Length - 1] != '?')
-                {
+                {/**/
                     if (nex_of != null)
                     {
                         return nex_of.request(what);
@@ -33,7 +33,8 @@ namespace Cor_with_UT
                     else
                     {
                         return "Whats wrong with u?";
-                    }
+                    }/**/
+                    //return "";
                 }
                 else
                 {
